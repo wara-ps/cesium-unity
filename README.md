@@ -11,6 +11,6 @@ This project is based upon the [Cesium plugin](https://github.com/Microsoft/Chak
     - Gränsö tileset loaded from the waraps tileserver and placed upon the bing tileset.
 
 # Try it out
- - Open the Unreal project with version 5.1.
+ - Open the Unity project with version 2021.3.20f1.
  - Open the scene named Gränsö and press play.
 
